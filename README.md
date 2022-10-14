@@ -1,1 +1,1 @@
-# serch in wikipedia with tkinter and speech recognition
+# search in wikipedia with tkinter and speech recognition
